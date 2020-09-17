@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <img src="https://i.loli.net/2017/09/07/59b1367f76fdb.png" alt="Material Render Phone">
 </p>
@@ -139,3 +140,6 @@ Thanks jsDelivr for providing MaterialCDN service.
 ## Render 渲染
 
 ![Materia-overview-tiny.png](https://i.loli.net/2017/09/28/59cccb0b25520.png)
+=======
+# daisy90618.github.io
+>>>>>>> 70f43471f48311e3714e262fe3698f38cb29ade2
